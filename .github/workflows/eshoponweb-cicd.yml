@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb
   LOCATION: brazilsouth
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: df836f2-f9ac-487a-ac72-59bc05944ecd
+  SUBSCRIPTION-ID: fdf836f2-f9ac-487a-ac72-59bc05944ecd
   WEBAPP-NAME: az400-webapp-eshopfrv
 
 
